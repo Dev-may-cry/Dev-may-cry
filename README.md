@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @natanaelmartins
-- 👀 I’m interested in blockchain tecnology
+- 👀 I’m interested in blockchain technology
 - 🌱 I’m currently learning web development and Python
 - 💞️ I’m looking to collaborate on open source softwares about education and decentralization
 - 📫 How to reach me: ...
