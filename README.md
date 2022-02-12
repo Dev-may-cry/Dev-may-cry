@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @natanaelmartins
-- 👀 I’m interested in mobile development and UI/UX
+- 👀 I’m interested in web development and UI/UX
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on open source softwares about education
 - 📫 How to reach me: ...
