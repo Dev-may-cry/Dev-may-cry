@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @natanaelmartins
+### Hi, there! 
+
+- 👋 I’m @natanaelmartins
 - 👀 I’m interested in mobile development and UI/UX
 - 🌱 I’m currently learning web development
 - 📫 How to reach me: natanaelmartins.dev@gmail.com 
