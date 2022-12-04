@@ -1,8 +1,8 @@
 ### Hi, there! 
 
 - 👋 I’m @natanaelmartins
-- 👀 I’m interested in mobile development and UI/UX
 - 🌱 I’m currently learning web development
+- 👀 I’m interested in mobile development and UI/UX
 - 📫 How to reach me: natanaelmartins.dev@gmail.com 
 
 <div align="center">
