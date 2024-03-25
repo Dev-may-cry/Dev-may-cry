@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning back-end development
 - 👀 I’m interested in AI, data science and game dev
 - 📫 How to reach me: natanaelmartins.dev@gmail.com
-- 😊 Take a look at my portfolio: portfolio-natanael.netlify.app
+- 😊 Take a look at my portfolio: <a href="portfolio-natanael.netlify.app">portfolio-natanael.netlify.app</a>
 
 <div align="center">
   <a href="https://github.com/natanaelmartins">
