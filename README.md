@@ -2,8 +2,9 @@
 
 - 👋 I’m @natanaelmartins
 - 🌱 I’m currently learning back-end development
-- 👀 I’m interested in mobile development and data science
-- 📫 How to reach me: natanaelmartins.dev@gmail.com 
+- 👀 I’m interested in AI, data science and game dev
+- 📫 How to reach me: natanaelmartins.dev@gmail.com
+- 😊 Take a look at my portfolio: portfolio-natanael.netlify.app
 
 <div align="center">
   <a href="https://github.com/natanaelmartins">
