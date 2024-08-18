@@ -2,7 +2,7 @@
 
 - 👋 I’m @natanaelmartins
 - 🌱 I’m currently learning back-end development focused on Java
-- 👀 I’m interested in AI, data science and mobile dev
+- 👀 I’m interested in AI and mobile dev (with Kotlin)
 - 📫 How to reach me: natanaelmartins.dev@gmail.com
 - 😊 Take a look at my portfolio: <a href="https://portfolio-natanael.netlify.app" target="_blank">portfolio-natanael.netlify.app</a>
 
